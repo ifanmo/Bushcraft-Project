@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CraftingManagerUI : MonoBehaviour
 {
-    // This class is credited to Learn Unity Beginner/Intermediate 2023 (FREE COMPLETE Course - Unity Tutorial) on YouTube [Available at: https://www.youtube.com/watch?v=AmGSEH7QcDg&t=10313s] 
 
     [SerializeField] private Transform container;
     [SerializeField] private Transform recipeTemplate;
